@@ -34,7 +34,7 @@
 
 <br />
 
-<h2 align="center"> <samp>CONFIGURATION</samp> </h1>
+<h2 align="center"> <samp>LICENSE</samp> </h1>
 <p align="center">
   <samp>This project is licensed under the </samp> <a href="LICENSE"><samp>General Public License 3.0</samp></a>
 </p>
